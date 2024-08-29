@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://beratide.github.io/sitemap.html.gz
+Sitemap: https://beratide.github.io/app/sitemap.html.gz
+Sitemap: https://beratide.github.io/assets/sitemap.html.gz
+Sitemap: https://beratide.github.io/css/sitemap.html.gz
+Sitemap: https://beratide.github.io/includes/sitemap.html.gz
+Sitemap: https://beratide.github.io/item/sitemap.html.gz
+Sitemap: https://beratide.github.io/src/sitemap.html.gz
